@@ -1,0 +1,30 @@
+{
+  "name": "gulp-aem",
+  "version": "1.0.0",
+  "description": "gulp aem plugin",
+  "main": "components.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "gulp-debug": "^3.0.0",
+    "gulp": "^3.9.1",
+    "path": "^0.12.7",
+    "through2": "^2.0.1",
+    "underscore-node": "^0.1.2",
+    "xml2js": "^0.4.17",
+    "vinyl": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cathcart93/aem-gulp.git"
+  },
+  "author": "Denis Kusakin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cathcart93/aem-gulp/issues"
+  },
+  "homepage": "https://github.com/cathcart93/aem-gulp#readme"
+}
